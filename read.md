@@ -1,4 +1,3 @@
-<img width="558" height="1250" alt="image" src="https://github.com/user-attachments/assets/829f6d25-c465-4375-801c-d4487a978ac1" />
 # To be Rich - Android 클리커 게임 💰
 
 "To be Rich"는 Kotlin과 Jetpack Compose로 개발된 심플한 Android 클리커 게임입니다.
