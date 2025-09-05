@@ -8,9 +8,14 @@
 
 ## 📸 스크린샷
 
-| 게임 화면 | 상점 화면 |
-|:---:|:---:|
-| ![게임 화면]() | ![상점 화면](screenshots/store_screen.png) |
+### 시작 화면
+![시작 화면](<img width="556" height="1252" alt="시작화면" src="https://github.com/user-attachments/assets/cc53e3ba-02ea-453b-bba1-ccc979d47972" />)
+
+### 게임 화면
+![게임 화면](https://github.com/user-attachments/assets/c7af11ad-9661-4254-b593-dfb4eae85c7c)
+
+### 상점 화면
+![상점 화면](https://github.com/user-attachments/assets/0c5d5fc7-41e2-4bb2-9374-281149e0457e)
 
 ## ✨ 주요 기능
 
