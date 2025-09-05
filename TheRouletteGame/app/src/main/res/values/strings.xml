@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TheRouletteGame</string>
+    <string name="app_logo_name">The Simple Game</string>
+    <string name="Game_Screen_Explain">Touch Image!</string>
+    <string name="Hold_Money">Hold Money:</string>
+    <string name="Click_Money">Click Money:</string>
+    <string name="Second_Money">Second Money:</string>
+    <string name="Store_Button">Go Store</string>
+    <string name="Return_Game_Screen">Return Game</string>
+    <string name="Upgrade_Second_Money">Upgrade Second Money</string>
+    <string name="Upgrade_Click_Money">Upgrade Click Money</string>
+    <string name="Random_Money">Random Money</string>
+    <string name="Upgrade_Cost">Upgrade Cost</string>
+    <string name="Now">Now</string>
+    <string name="Purchase">Purchase</string>
+    <string name="After_Upgrade">After Upgrade</string>
+    <string name="Purchase_Success">Purchase_Success</string>
+    <string name="Purchase_fail">You don\'t have money</string>
+    <string name="Price">Price</string>
+    <string name="Range">Range</string>
+    <string name="RandomBoxMessage">You get</string>
+</resources>
