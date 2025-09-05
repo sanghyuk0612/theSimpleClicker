@@ -10,7 +10,7 @@ import kotlinx.coroutines.launch
 
 class MoneyViewModel : ViewModel() {
     // 내부 MutableStateFlow 선언 및 초기값 설정
-    private val _holdMoney = MutableStateFlow(10000)
+    private val _holdMoney = MutableStateFlow(0)
     val holdMoney: StateFlow<Int> = _holdMoney.asStateFlow()
 
     private val _secondMoney = MutableStateFlow(0)
